@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699844073 source:c:\1. important documents\learning\internship\beginner c\lab9\lab 9.3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

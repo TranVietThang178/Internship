@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699869438 source:c:\1. important documents\learning\internship\beginner c\assignment\assignment_1\main.c
+	<stdio.h>
+	<stdint.h>
+	<math.h>
+

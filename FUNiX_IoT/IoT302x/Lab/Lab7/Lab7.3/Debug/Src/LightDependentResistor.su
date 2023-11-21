@@ -1,0 +1,10 @@
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:50:6:LDR_init	24	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:94:6:LDR_setPhotocellPositionOnGround	16	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:99:6:LDR_updatePhotocellParameters	16	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:105:7:LDR_luxToFootCandles	16	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:110:7:LDR_footCandlesToLux	16	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:115:7:LDR_rawAnalogValueToLux	40	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:137:7:LDR_getCurrentLux	16	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:142:7:LDR_getCurrentFootCandles	16	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:147:7:LDR_getSmoothedLux	32	static
+C:/1. IMPORTANT DOCUMENTS/Learning/Internship/NUCLEO/Libraries/LightDependentResistor.c:198:7:LDR_getSmoothedFootCandles	16	static
