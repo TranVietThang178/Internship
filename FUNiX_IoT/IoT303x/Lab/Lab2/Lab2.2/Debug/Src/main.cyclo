@@ -1,0 +1,6 @@
+../Src/main.c:40:5:main	4
+../Src/main.c:71:13:Buzzer_Init	1
+../Src/main.c:88:13:Button_Init	1
+../Src/main.c:105:13:Buzzer_Control	3
+../Src/main.c:117:16:Button_GetLogic	1
+../Src/main.c:122:6:delay_ms	3

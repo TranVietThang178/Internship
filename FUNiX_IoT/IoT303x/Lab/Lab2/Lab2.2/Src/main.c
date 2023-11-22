@@ -27,9 +27,9 @@
 #define BUZZER_GPIO_PIN		GPIO_Pin_9
 #define BUZZER_GPIO_RCC		RCC_AHB1Periph_GPIOC
 
-#define BUZZER_GPIO_PORT	GPIOB
-#define BUZZER_GPIO_PIN		GPIO_Pin_4
-#define BUZZER_GPIO_RCC		RCC_AHB1Periph_GPIOB
+#define BUTTON_GPIO_PORT	GPIOB
+#define BUTTON_GPIO_PIN		GPIO_Pin_4
+#define BUTTON_GPIO_RCC		RCC_AHB1Periph_GPIOB
 
 static void Buzzer_Init(void);
 static void Button_Init(void);

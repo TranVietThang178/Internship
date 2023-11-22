@@ -1,0 +1,4 @@
+../Src/main.c:32:5:main	1
+../Src/main.c:48:6:Led_Init	1
+../Src/main.c:65:6:TimeBasic_Init	1
+../Src/main.c:85:6:delay_ms	3
